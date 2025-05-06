@@ -3,12 +3,12 @@
 You’ve just joined a small e-commerce startup, and your first task is to prototype a basic product recommendation tool. Each product in the catalog includes tags like `"eco-friendly"`, `"durable"`, or `"stylish"`. This looks like the list of dictionaries shown below.
 ```python
 products = [ 
-{"name": "Eco Water Bottle", "tags": ["eco-friendly", "durable", "recyclable"]}, 
-{"name": "Trail Backpack", "tags": ["durable", "water-resistant", "lightweight"]}, 
-{"name": "Vegan Leather Wallet", "tags": ["vegan", "stylish", "compact"]}, 
-{"name": "Bamboo Toothbrush", "tags": ["eco-friendly", "vegan", "biodegradable"]}, 
-{"name": "Smartwatch", "tags": ["tech", "durable", "stylish"]},
-...
+    {"name": "Eco Water Bottle", "tags": ["eco-friendly", "durable", "recyclable"]}, 
+    {"name": "Trail Backpack", "tags": ["durable", "water-resistant", "lightweight"]}, 
+    {"name": "Vegan Leather Wallet", "tags": ["vegan", "stylish", "compact"]}, 
+    {"name": "Bamboo Toothbrush", "tags": ["eco-friendly", "vegan", "biodegradable"]}, 
+    {"name": "Smartwatch", "tags": ["tech", "durable", "stylish"]},
+    ...
 ]
 ```
 
